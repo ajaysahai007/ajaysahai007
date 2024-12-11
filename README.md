@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **DevOps New Tools.....**
 
-- 👨‍💻 All of my projects are available at [ajaysahai.in](ajaysahai.in)
+- 👨‍💻 All of my projects are available at [ajaysahai.tech](ajaysahai.tech)
 
-- 📝 I regularly write articles on [ajaysahai.in](ajaysahai.in)
+- 📝 I regularly write articles on [ajaysahai.tech](ajaysahai.tech)
 
 - 💬 Ask me about **DevOps**
 
